@@ -1,6 +1,8 @@
 .landing {
     background-image: url('/IP3/assets/backgrounds/h_img.jpg');
+    display: flexbox;
     align-items: center;
+    justify-content: center;
    }
 img {
     max-width: 100%;  
@@ -10,4 +12,13 @@ img {
   }
 .contact{
     background-image: url('/IP3/assets/backgrounds/c_image.jpg');
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+footer{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font: bolder;
 }
