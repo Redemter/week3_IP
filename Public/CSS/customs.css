@@ -4,9 +4,11 @@
     justify-content: center;
     text-align: center;
    }
-img {
-    max-width: 100%;  
-  }
+.landing.img{
+    width:"940";
+    height: "500";
+}
+
   .services {
     background-image: url('/IP3/assets/backgrounds/s_image.jpg');
   }
