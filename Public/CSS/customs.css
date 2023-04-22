@@ -1,8 +1,8 @@
 .landing {
     background-image: url('/IP3/assets/backgrounds/h_img.jpg');
-    display: flexbox;
     align-items: center;
     justify-content: center;
+    text-align: center;
    }
 img {
     max-width: 100%;  
@@ -16,6 +16,17 @@ img {
     justify-content: center;
     text-align: center;
 }
+.portfolio.display{
+    display: flex;
+}
+.portfolio {
+    flex:33.33%;
+    /* height: 200px;
+    padding: 10px;
+    margin: 5px; */
+    text-align: center;
+}
+
 footer{
     align-items: center;
     justify-content: center;
