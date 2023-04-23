@@ -15,6 +15,7 @@
     justify-content: center;
     text-align: center;
     color: white;
+    place-items: center;
   }
 .contact{
     background-image: url('/IP3/assets/backgrounds/c_image.jpg');
