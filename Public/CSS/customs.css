@@ -18,6 +18,10 @@
     justify-content: center;
     text-align: center;
 }
+.what-we-do{
+    text-align: center;
+    place-items: center;
+}
 .portfolio{
     align-items: center;
     justify-content: center;
@@ -28,7 +32,6 @@
 .column {
     float: left;
     width: 25%;
-
 }
 .row {
     content: "";
