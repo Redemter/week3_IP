@@ -22,10 +22,13 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    display: grid;
+    place-items: center;
 }
 .column {
     float: left;
     width: 25%;
+
 }
 .row {
     content: "";
