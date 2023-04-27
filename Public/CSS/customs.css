@@ -24,7 +24,8 @@
     text-align: center;
 }
 .what-we-do{
-    text-align: center;
+    align-content: center;
+    justify-content: center;
     place-items: center;
 }
 .portfolio{
