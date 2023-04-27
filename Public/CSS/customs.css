@@ -1,5 +1,5 @@
 .landing {
-    background-image: url('/IP3/assets/backgrounds/h_img.jpg');
+    background-image: url('/IP3/assets/backgrounds/h_img.jpg');    
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -16,17 +16,12 @@
     color: white;
     place-items: center;
   }
-.contact{
-    background-image: url('/IP3/assets/backgrounds/c_image.jpg');
-    align-content: center;
-    justify-content: center;
-    text-align: center;
-}
-.what-we-do{
+  /* .what-we-do{
     align-content: center;
     justify-content: center;
     place-items: center;
-}
+    text-align: center;
+} */
 .portfolio{
     align-items: center;
     justify-content: center;
@@ -34,6 +29,13 @@
     display: grid;
     place-items: center;
 }
+.contact{
+    background-image: url('/IP3/assets/backgrounds/c_image.jpg');
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .column {
     float: left;
     width: 25%;
