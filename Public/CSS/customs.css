@@ -16,12 +16,14 @@
     color: white;
     place-items: center;
   }
-  /* .what-we-do{
+  .what-we-do{
     align-content: center;
     justify-content: center;
-    place-items: center;
     text-align: center;
-} */
+    padding-left: 100px;
+   
+}
+
 .portfolio{
     align-items: center;
     justify-content: center;
@@ -34,16 +36,19 @@
     align-content: center;
     justify-content: center;
     text-align: center;
-}
+    }
 
 .column {
     float: left;
     width: 25%;
 }
 .row {
-    content: "";
     display: table;
     clear: both;
+}
+textarea {
+    width: 400px;
+    height: 200px;
 }
 
 footer{
